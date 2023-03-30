@@ -1,3 +1,3 @@
 cd /root/ve
 git pull
-./worker_linux_amd64
+nohup ./worker_linux_amd64 &
